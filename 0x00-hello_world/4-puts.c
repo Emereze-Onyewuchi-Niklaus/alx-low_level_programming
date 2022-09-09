@@ -1,15 +1,14 @@
 #include <stdio.h>
 
 /**
- * A simple C program to print a string using the puts function.
+ * main - print the string in the put function
  *
- * main - prints string \"Programing is like building a multilingual puzzle
- *
- * Return: 0 if exited properly, -1 otherwise
- *
+ * Description: using the main function
+ * this program prints \"Programming is like building a multilingual puzzle
+ * Return: 0
  */
 int main(void)
 {
-	puts("\"Programming is like building a multilingual puzzle");
+	puts("\"Programming is like building a multiligual puzzle");
 	return (0);
 }

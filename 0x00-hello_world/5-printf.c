@@ -1,12 +1,11 @@
 #include <stdio.h>
 
 /**
- * description: Using printf function
+ * main - print the string in the printf function
  *
- * function main: prints a string in the output using printf function
- *
- * Return: 0 if exited properly, -1 if otherwise
- *
+ * Description: using the main function
+ * this program prints a string
+ * Return: 0
  */
 int main(void)
 {

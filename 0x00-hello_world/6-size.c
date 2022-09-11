@@ -5,7 +5,7 @@
  *
  * Description: main function prints sizes of Data Types
  * with the sizeof function
- * Return: 0
+ * Return: 1
  */
 int main(void)
 {
@@ -19,5 +19,5 @@ int main(void)
 	printf("Size of an int: %ld byte(s)\n", sizeof(i));
 	printf("Size of a long int: %ld byte(s)\n", sizeof(li));
 	printf("Size of a long long int: %ld bytes(s)\n", sizeof(lli));
-	return (0);
+	return (1);
 }
